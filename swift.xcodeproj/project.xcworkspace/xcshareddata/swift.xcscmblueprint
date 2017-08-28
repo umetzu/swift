@@ -1,0 +1,162 @@
+{
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "3F9B9022A6C4B738254AF2773C6BA3F0E8621A22+++D3DD898" : 9223372036854775807,
+    "52AFDBC9624F22D94526E36BBEE271C6D7FC65D3+++E01B58C" : 9223372036854775807,
+    "748C9296F4CFA6FB6918A0C73ECFD0DCCA1E2109+++AC67840" : 9223372036854775807,
+    "013355313FF9FF2B55EA1241A5D12353638D9AC3+++FDBE04F" : 9223372036854775807,
+    "52AFDBC9624F22D94526E36BBEE271C6D7FC65D3+++E3CD0F4" : 9223372036854775807,
+    "EE0211841CDBC942EFB5905580DF4AA57B5992F6+++CBD174F" : 9223372036854775807,
+    "07D38DC615E8ADA07E68B7DA8DD8A2654638A334+++C75C5AF" : 9223372036854775807,
+    "52AFDBC9624F22D94526E36BBEE271C6D7FC65D3+++5AECD8A" : 9223372036854775807,
+    "52AFDBC9624F22D94526E36BBEE271C6D7FC65D3+++946236A" : 9223372036854775807,
+    "A1425CC37302E6F8C8BD550497B9059B098D1BAF+++6E28CF1" : 9223372036854775807,
+    "DCA698EAAA175C2796E06D7F52A4609033E8DEB9+++CEBAA15" : 9223372036854775807,
+    "F024B372FCFF470DA20DD02157DAACC2E58B7655+++01139F8" : 9223372036854775807,
+    "52AFDBC9624F22D94526E36BBEE271C6D7FC65D3+++7CA71CF" : 9223372036854775807,
+    "52AFDBC9624F22D94526E36BBEE271C6D7FC65D3+++CE98A5B" : 9223372036854775807,
+    "9948E95A70F754B78E92114BF205DC946294AF5D+++C0A4D95" : 9223372036854775807,
+    "CADB2473D823C4B67E031AA19BD5C58C5C0C5C2C+++91F0341" : 9223372036854775807,
+    "CEB2E85BAD5A62B0D123EC0B10F5265A329CEEBA+++476FE49" : 9223372036854775807,
+    "65880DAFEE5F57D1D1C181560E763EECFD96B06D+++3B38EB6" : 9223372036854775807,
+    "9C479842BAB37E5A02B52F0D8BB690041F1A927F+++F0F9A83" : 9223372036854775807,
+    "52AFDBC9624F22D94526E36BBEE271C6D7FC65D3+++188B00E" : 9223372036854775807,
+    "3D2B8B3C65A5DCCE6F839227AA4595360205FD35+++DD1AED5" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "7683AB06-9659-4CA6-AFDE-1810F6078FB3",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "3F9B9022A6C4B738254AF2773C6BA3F0E8621A22+++D3DD898" : "swift\/.build\/checkouts\/fluent-provider.git-1502561075136423204\/",
+    "52AFDBC9624F22D94526E36BBEE271C6D7FC65D3+++E01B58C" : "swift\/.build\/checkouts\/routing.git-5366657101075133678\/",
+    "748C9296F4CFA6FB6918A0C73ECFD0DCCA1E2109+++AC67840" : "swift\/.build\/checkouts\/console.git--2431895819212044213\/",
+    "013355313FF9FF2B55EA1241A5D12353638D9AC3+++FDBE04F" : "swift\/.build\/checkouts\/tls.git-2678149690400510061\/",
+    "52AFDBC9624F22D94526E36BBEE271C6D7FC65D3+++E3CD0F4" : "swift\/.build\/checkouts\/core.git-9210800844849382486\/",
+    "EE0211841CDBC942EFB5905580DF4AA57B5992F6+++CBD174F" : "swift\/.build\/checkouts\/node.git-9175390252000121167\/",
+    "07D38DC615E8ADA07E68B7DA8DD8A2654638A334+++C75C5AF" : "swift\/.build\/checkouts\/crypto.git-7980259129511365902\/",
+    "52AFDBC9624F22D94526E36BBEE271C6D7FC65D3+++5AECD8A" : "swift\/.build\/checkouts\/vapor.git-5492988889259800272\/",
+    "52AFDBC9624F22D94526E36BBEE271C6D7FC65D3+++946236A" : "swift\/.build\/checkouts\/vapor.git-5492988889259800272\/",
+    "A1425CC37302E6F8C8BD550497B9059B098D1BAF+++6E28CF1" : "swift\/.build\/checkouts\/debugging.git-4365319567167379684\/",
+    "DCA698EAAA175C2796E06D7F52A4609033E8DEB9+++CEBAA15" : "swift\/.build\/checkouts\/random.git--3118593962244350674\/",
+    "F024B372FCFF470DA20DD02157DAACC2E58B7655+++01139F8" : "swift\/.build\/checkouts\/bcrypt.git-6177224099894028443\/",
+    "52AFDBC9624F22D94526E36BBEE271C6D7FC65D3+++7CA71CF" : "swift\/.build\/checkouts\/engine.git-3311994267206676365\/",
+    "52AFDBC9624F22D94526E36BBEE271C6D7FC65D3+++CE98A5B" : "swift\/.build\/checkouts\/vapor.git-5492988889259800272\/",
+    "9948E95A70F754B78E92114BF205DC946294AF5D+++C0A4D95" : "swift\/.build\/checkouts\/json.git-9153249592855998091\/",
+    "CADB2473D823C4B67E031AA19BD5C58C5C0C5C2C+++91F0341" : "swift\/.build\/checkouts\/multipart.git-4210556629793786970\/",
+    "CEB2E85BAD5A62B0D123EC0B10F5265A329CEEBA+++476FE49" : "swift\/.build\/checkouts\/sqlite.git--8232814251736334455\/",
+    "65880DAFEE5F57D1D1C181560E763EECFD96B06D+++3B38EB6" : "swift\/.build\/checkouts\/fluent.git-6251908308727715749\/",
+    "9C479842BAB37E5A02B52F0D8BB690041F1A927F+++F0F9A83" : "swift\/.build\/checkouts\/sockets.git-972942978533733666\/",
+    "52AFDBC9624F22D94526E36BBEE271C6D7FC65D3+++188B00E" : "swift\/.build\/checkouts\/vapor.git-5492988889259800272\/",
+    "3D2B8B3C65A5DCCE6F839227AA4595360205FD35+++DD1AED5" : "swift\/.build\/checkouts\/bits.git-9196587591774126515\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "swift",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "swift.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "\/Users\/Umetzu\/Desktop\/swift\/.build\/repositories\/tls.git-2678149690400510061",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "013355313FF9FF2B55EA1241A5D12353638D9AC3+++FDBE04F"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "\/Users\/Umetzu\/Desktop\/swift\/.build\/repositories\/crypto.git-7980259129511365902",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "07D38DC615E8ADA07E68B7DA8DD8A2654638A334+++C75C5AF"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "\/Users\/Umetzu\/Desktop\/swift\/.build\/repositories\/bits.git-9196587591774126515",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "3D2B8B3C65A5DCCE6F839227AA4595360205FD35+++DD1AED5"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "\/Users\/Umetzu\/Desktop\/swift\/.build\/repositories\/fluent-provider.git-1502561075136423204",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "3F9B9022A6C4B738254AF2773C6BA3F0E8621A22+++D3DD898"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "\/Users\/Umetzu\/Desktop\/swift\/.build\/repositories\/vapor.git-5492988889259800272",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "52AFDBC9624F22D94526E36BBEE271C6D7FC65D3+++188B00E"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "\/Users\/Umetzu\/Desktop\/swift\/.build\/repositories\/core.git-9210800844849382486",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "52AFDBC9624F22D94526E36BBEE271C6D7FC65D3+++5AECD8A"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "\/Users\/Umetzu\/Desktop\/swift\/.build\/repositories\/engine.git-3311994267206676365",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "52AFDBC9624F22D94526E36BBEE271C6D7FC65D3+++7CA71CF"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "\/Users\/Umetzu\/Desktop\/swift\/.build\/repositories\/engine.git-3311994267206676365",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "52AFDBC9624F22D94526E36BBEE271C6D7FC65D3+++946236A"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "\/Users\/Umetzu\/Desktop\/swift\/.build\/repositories\/routing.git-5366657101075133678",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "52AFDBC9624F22D94526E36BBEE271C6D7FC65D3+++CE98A5B"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "\/Users\/Umetzu\/Desktop\/swift\/.build\/repositories\/routing.git-5366657101075133678",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "52AFDBC9624F22D94526E36BBEE271C6D7FC65D3+++E01B58C"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "\/Users\/Umetzu\/Desktop\/swift\/.build\/repositories\/core.git-9210800844849382486",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "52AFDBC9624F22D94526E36BBEE271C6D7FC65D3+++E3CD0F4"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "\/Users\/Umetzu\/Desktop\/swift\/.build\/repositories\/fluent.git-6251908308727715749",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "65880DAFEE5F57D1D1C181560E763EECFD96B06D+++3B38EB6"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "\/Users\/Umetzu\/Desktop\/swift\/.build\/repositories\/console.git--2431895819212044213",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "748C9296F4CFA6FB6918A0C73ECFD0DCCA1E2109+++AC67840"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "\/Users\/Umetzu\/Desktop\/swift\/.build\/repositories\/json.git-9153249592855998091",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "9948E95A70F754B78E92114BF205DC946294AF5D+++C0A4D95"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "\/Users\/Umetzu\/Desktop\/swift\/.build\/repositories\/sockets.git-972942978533733666",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "9C479842BAB37E5A02B52F0D8BB690041F1A927F+++F0F9A83"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "\/Users\/Umetzu\/Desktop\/swift\/.build\/repositories\/debugging.git-4365319567167379684",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "A1425CC37302E6F8C8BD550497B9059B098D1BAF+++6E28CF1"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "\/Users\/Umetzu\/Desktop\/swift\/.build\/repositories\/multipart.git-4210556629793786970",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "CADB2473D823C4B67E031AA19BD5C58C5C0C5C2C+++91F0341"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "\/Users\/Umetzu\/Desktop\/swift\/.build\/repositories\/sqlite.git--8232814251736334455",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "CEB2E85BAD5A62B0D123EC0B10F5265A329CEEBA+++476FE49"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "\/Users\/Umetzu\/Desktop\/swift\/.build\/repositories\/random.git--3118593962244350674",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "DCA698EAAA175C2796E06D7F52A4609033E8DEB9+++CEBAA15"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "\/Users\/Umetzu\/Desktop\/swift\/.build\/repositories\/node.git-9175390252000121167",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "EE0211841CDBC942EFB5905580DF4AA57B5992F6+++CBD174F"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "\/Users\/Umetzu\/Desktop\/swift\/.build\/repositories\/bcrypt.git-6177224099894028443",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "F024B372FCFF470DA20DD02157DAACC2E58B7655+++01139F8"
+    }
+  ]
+}
